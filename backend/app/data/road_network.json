@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ROAD-NH27",
+    "name": "NH-27 (East-West Corridor / Silchar-Haflong-Nagaon)",
+    "section": "Lumding – Haflong – Silchar Hill Corridor",
+    "state": "Assam",
+    "length_km": 198,
+    "status": "BLOCKED",
+    "severity": "CRITICAL",
+    "chokepoint_name": "Jatinga-Harangajao Mile 44",
+    "blockage_type": "Debris Flow & Retaining Wall Subsidence",
+    "debris_volume_m3": 4500,
+    "affected_coordinates": [25.1250, 93.0350],
+    "coordinates_path": [
+      [26.1500, 92.5000],
+      [25.8000, 92.9000],
+      [25.1834, 93.0185],
+      [25.1250, 93.0350],
+      [24.8333, 92.7789]
+    ],
+    "estimated_clearance_hrs": 6.5,
+    "deployed_machinery": "4 Heavy JCB Excavators, 2 Payloaders, 1 BRO Quick-Reaction Team",
+    "bypass_route": "Umrangso - Lanka State Highway (Heavy Vehicles Restricted)",
+    "last_updated": "2026-08-27T17:35:00Z"
+  },
+  {
+    "id": "ROAD-NH6",
+    "name": "NH-6 (Guwahati – Shillong – Jowai – Silchar)",
+    "section": "Sonapur Tunnel & Ratacherra Escarpment",
+    "state": "Meghalaya / Assam",
+    "length_km": 240,
+    "status": "AT_RISK",
+    "severity": "HIGH",
+    "chokepoint_name": "Sonapur Mudslide Zone",
+    "blockage_type": "Intermittent Rockfalls & Mud Slump",
+    "debris_volume_m3": 850,
+    "affected_coordinates": [25.1500, 92.3500],
+    "coordinates_path": [
+      [26.0500, 91.8000],
+      [25.5788, 91.8933],
+      [25.4500, 92.2000],
+      [25.1500, 92.3500],
+      [24.8333, 92.7789]
+    ],
+    "estimated_clearance_hrs": 2.0,
+    "deployed_machinery": "2 Excavators on Active Standby, Traffic Police Pilot Escort",
+    "bypass_route": "Single-lane Convoy Movement Allowed for Light Vehicles Only",
+    "last_updated": "2026-08-27T17:40:00Z"
+  },
+  {
+    "id": "ROAD-NH10",
+    "name": "NH-10 (Siliguri – Sevoke – Rangpo – Gangtok)",
+    "section": "Teesta Bazaar – Birik Dara Sinking Area",
+    "state": "Sikkim / West Bengal",
+    "length_km": 114,
+    "status": "BLOCKED",
+    "severity": "CRITICAL",
+    "chokepoint_name": "29th Mile & Selfidara",
+    "blockage_type": "Teesta River Toe Erosion & Massive Road Sinking",
+    "debris_volume_m3": 6200,
+    "affected_coordinates": [27.0500, 88.4300],
+    "coordinates_path": [
+      [26.7271, 88.4353],
+      [26.8800, 88.4700],
+      [27.0500, 88.4300],
+      [27.1700, 88.5200],
+      [27.3389, 88.6065]
+    ],
+    "estimated_clearance_hrs": 12.0,
+    "deployed_machinery": "6 PWD / BRO Bulldozers, Rock Breakers, SDRF Rescue Unit",
+    "bypass_route": "Lava – Gorubathan – Damdim Alternate Mountain Pass",
+    "last_updated": "2026-08-27T17:30:00Z"
+  },
+  {
+    "id": "ROAD-NH29",
+    "name": "NH-29 (Dimapur – Kohima – Mao – Senapati)",
+    "section": "Old KMC Dumping Site & Phesama Fault Cut",
+    "state": "Nagaland",
+    "length_km": 74,
+    "status": "AT_RISK",
+    "severity": "HIGH",
+    "chokepoint_name": "Dzüdza Bridge Approach Slope",
+    "blockage_type": "Active Slope Creep & Culvert Cracking",
+    "debris_volume_m3": 400,
+    "affected_coordinates": [25.7200, 94.0500],
+    "coordinates_path": [
+      [25.9000, 93.7300],
+      [25.7200, 94.0500],
+      [25.6751, 94.1086],
+      [25.5000, 94.1500]
+    ],
+    "estimated_clearance_hrs": 1.5,
+    "deployed_machinery": "1 Grader, 2 Tipper Trucks, Nagaland Police Traffic Control",
+    "bypass_route": "Peducha – Tsiesema 10-km Bypass Road (Open)",
+    "last_updated": "2026-08-27T17:42:00Z"
+  },
+  {
+    "id": "ROAD-NH306",
+    "name": "NH-306 (Silchar – Kolasib – Sairang – Aizawl)",
+    "section": "Hunthar Chokepoint & Bilkhawthlir Valley",
+    "state": "Mizoram",
+    "length_km": 130,
+    "status": "OPEN",
+    "severity": "LOW",
+    "chokepoint_name": "Hunthar Veng Sinking Area",
+    "blockage_type": "Clear with Monitored Minor Runoff",
+    "debris_volume_m3": 0,
+    "affected_coordinates": [23.7500, 92.7000],
+    "coordinates_path": [
+      [24.8333, 92.7789],
+      [24.2300, 92.6800],
+      [23.7500, 92.7000],
+      [23.7271, 92.7176]
+    ],
+    "estimated_clearance_hrs": 0,
+    "deployed_machinery": "Regular PWD Highway Patrol",
+    "bypass_route": "Direct Highway Clear",
+    "last_updated": "2026-08-27T17:44:00Z"
+  }
+]
