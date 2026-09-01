@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://sih-2026-8rqy.onrender.com/api';
 
 export const api = {
   // Risk & Districts
