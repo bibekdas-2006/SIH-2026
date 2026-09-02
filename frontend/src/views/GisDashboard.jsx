@@ -130,13 +130,13 @@ export const GisDashboard = () => {
 
   // Tile Providers
   const tileUrls = {
-    dark: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    dark: 'https://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
     satellite: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
     topo: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png'
   };
 
   const tileAttributions = {
-    dark: '&copy; OpenStreetMap contributors &copy; CARTO',
+    dark: 'Tiles &copy; Esri',
     satellite: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
     topo: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap'
   };
